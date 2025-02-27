@@ -1,0 +1,49 @@
+body {
+    background-color: rgba(238, 207, 230, 0.716);
+    margin: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.choco {
+    filter: drop-shadow(10px 20px 50px brown);
+    width: 300px;
+    height: 380px;
+    margin-left: 70px;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.strow {
+    filter: drop-shadow(10px 20px 50px brown);
+    width: 300px;
+    height: 340px;
+    margin-left: 900px;
+    margin-top: -80px;
+}
+
+.start{
+    border-radius: 90px;
+    border: none;
+    padding: 20px;
+    width: 200px;
+    margin-left: 550px;
+    position: absolute;
+
+}
+
+.start:hover {
+    background-color: rgb(238, 190, 240);
+}
+
+h1 {
+    font-size: 25px;
+    margin-left: 460px;
+    margin-top: -220px;
+    padding: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+
+button a{
+    text-decoration: none;
+    color: black;
+}
